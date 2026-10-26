@@ -21,7 +21,7 @@ See: [`notebooks/00_smoke_test.ipynb`](./notebooks/00_smoke_test.ipynb)
 ## Roadmap
 
 - [x] Week 1 — Environment setup + smoke test
-- [ ] Week 2 — Baseline YOLO11n training on RDD2022
+- [x] Week 2 — Baseline YOLO11n training on RDD2022
 - [ ] Week 3 — Error analysis in FiftyOne on BDD100K scenes
 - [ ] Week 4 — SAM 2 + Depth Anything V2 integration with mm calibration
 - [ ] Week 5 — ByteTrack cross-frame tracking
